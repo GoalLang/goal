@@ -1,2 +1,2 @@
-# Gol Programming Language (gollang)
+# Goal Programming Language (goallang)
 
